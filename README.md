@@ -21,3 +21,6 @@ Inspired by [Awesome GIS](https://github.com/sshuair/awesome-gis).
 * [https://github.com/pb360/cme211_python_only/tree/master](https://github.com/pb360/cme211_python_only/tree/master)
 * [https://github.com/cme212/course](https://github.com/cme212/course)
 * [https://wesmckinney.com/book/](https://wesmckinney.com/book/)
+
+## Numerical Method and Scientific Programming
+* [https://www.math.hkust.edu.hk/~machas/scientific-computing.pdf](https://www.math.hkust.edu.hk/~machas/scientific-computing.pdf)
